@@ -28,8 +28,9 @@ h3 {
 }
 
 h4, h5 {
-	font-family: 'Source Sans Pro', italic;
+	font-family: 'Source Sans Pro', black;
 	text-transform: uppercase;
+	letter-spacing: .2em
 }
 p {
 	font-family: 'Playfair', regular;
