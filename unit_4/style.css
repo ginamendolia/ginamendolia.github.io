@@ -5,8 +5,8 @@ body {
 }
 
 h1 {
-
-	font-size: 48px;
+	font-family: 'Playfair', bold;
+	font-size: 4em;
 	text-align: center;
 }
 
@@ -19,17 +19,21 @@ hr.homepage {
 h2 {
 	font-style: bold;
 	font-family:'Playfair', bold;
-	text-size:36px;
+	text-size:1.75em;
 }
 
 h3 {
 	font-style: 'Playfair', italic;
-	font-size: 22px;
+	font-size: 1.5em;
 }
 
 h4, h5 {
 	font-family: 'Source Sans Pro', italic;
 	text-transform: uppercase;
+}
+p {
+	font-family: 'Playfair', regular;
+	font-size: 1em;
 }
 
 .philosophy {
