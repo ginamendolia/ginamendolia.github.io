@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro);
 
+
 h1, p {
 	font-family: 'Playfair';
 }
@@ -15,16 +16,16 @@ body {
 	padding: 5em auto;
 }
 
-#wrapper {
+/* #wrapper {
 	padding: 6em 6em;
-	margin: 60 60;
-}
+	margin: 0 60;
+} */
 
 #philosophy {
 	background: #B9E6E8;
 }
 
-#project_packaging {
+#about {
 	background: #B9E6E8;
 }
 
@@ -65,4 +66,53 @@ p {
 img {
 	max-width: 25%;
 	height: auto;
+}
+
+
+.nav_main {
+  list-style: none;
+  text-align: right;
+	display: inline-block;
+	padding-right: 6em;
+	text-decoration: none;
+	color:white;
+	display: block;
+	padding:1rem ;
+	transition:color 1s ease;
+}
+
+
+}
+nav {
+  display: block;
+  background-color: black;
+  border-bottom:2px solid black;
+  width:100%;
+  height:50px;
+  position: fixed;
+	text-align: right;
+	padding: 2em;
+}
+
+.box {
+  /* height:1000px; */
+  padding-top: 150px;
+	padding-bottom: 25px;
+  color:black;
+
+}
+#home {
+
+  background-color: #663399;
+}
+#about {
+  background-color: #bada55;
+}
+
+#clients {
+  background-color: goldenrod;
+}
+
+#contact {
+  background-color: red;
 }
