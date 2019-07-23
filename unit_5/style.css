@@ -61,3 +61,8 @@ p {
 	font-family: 'Playfair';
 	font-size: 1em;
 }
+
+img {
+	max-width: 25%;
+	height: auto;
+}
