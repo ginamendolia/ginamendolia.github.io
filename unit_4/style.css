@@ -2,45 +2,44 @@
 
 body {
 	background-color: #fff;
+	font-family: 'Playfair';
 }
 
 h1 {
 	font-family: 'Playfair', bold;
 	font-size: 4em;
-	text-align: center;
+	text-align: right;
 }
 
 hr.homepage {
 	width: 400px;
 	border:6px solid rgb(74, 143, 134);
-	align-self: center;
+	align-self: right;
 }
 
 h2 {
 	font-style: bold;
 	font-family:'Playfair', bold;
-	text-size:1.75em;
+	text-size:2em;
 }
 
 h3 {
 	font-style: 'Playfair', italic;
-	font-size: 1.5em;
+	font-size: 1.75em;
 }
 
 h4, h5 {
 	font-family: 'Source Sans Pro', black;
+	font-size: 1em;
 	text-transform: uppercase;
 	letter-spacing: .2em
 }
+
 p {
-	font-family: 'Playfair', regular;
+	font-family: 'Playfair';
 	font-size: 1em;
 }
 
-#project_poop_pills {
-	backround: #333;
-}
-
-#about {
-	background: red;
+.philosophy {
+	text-align: center;
 }
