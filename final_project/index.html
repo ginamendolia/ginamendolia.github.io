@@ -18,35 +18,35 @@
 
 			<main>
 				<section class="box" id="homepage">
-					<h1 class="homepage">Design<br><span id=title>+ Operations</span><br><hr class="homepage">Gina Mendolia</h1>
+					<div id = "homepageFocal">
+						<h1>Design</h1>
+						<h1> + Operations</h1>
+						<hr>
+						<h1 id="bold">Gina Mendolia</h1>
+					</div>
 				</section>
 
 				<section class="box" id="about">
+					<h3>About</h3>
+					<h1>Hi, I'm Gina!</h1>
 
-					<div>
-						<h2>About</h2>
-						<h3>Hi, I'm Gina!</h3>
-						<div id="about_left">
-							<img src="https://ginamendolia.github.io/final_project/images/misc/gina.jpg" alt="Hi, this is a picture of me!" title="Gina Mendolia">
-						</div>
-						<div id="about_main"
-							<p><strong><a href="www.openbiome.org">Poop scientist</a> by trade; engineer by design.</strong> I'm driven by unmet public health need, inspired by mindfulness, and attracted to simplicity.</p>
-							<p>I tell product stories by researching what people need, brainstorming ideas, prototyping, and iterating based on user feedback. My process is flexible so that my design account for the ecosystem while addressing distinct needs.</p>
-							<p>When I am not reimagining systems, you can generally find me doodling, touting the superiority of homemade tomato sauce over Ragu, or somewhere on a mountain--skiing, biking, running, or climbing.</p>
-							<p><strong>As a graduate student</strong> at Stanford University, I am interested in harnessing individual decision making to increase the overall health and sustainability of communities.</p>
-						</div>
-						<aside>
-							<p><a href="documents/Gina_Mendolia_CV.pdf">Click here to see my CV.</a></p>
-							<p><a href="documents/Gina_Mendolia_CV.pdf">Portfolio</a></p>
-							<p><a href="documents/Gina_Mendolia_CV.pdf">Research</a></p>
-						</aside>
+					<div class="about_content" id="about_main">
+						<p><strong><a href="www.openbiome.org">Poop scientist</a> by trade; engineer by design.</strong> I'm driven by unmet public health need, inspired by mindfulness, and attracted to simplicity.</p>
+						<p>I tell product stories by researching what people need, brainstorming ideas, prototyping, and iterating based on user feedback. My process is flexible so that my design account for the ecosystem while addressing distinct needs.</p>
+						<p>When I am not reimagining systems, you can generally find me doodling, touting the superiority of homemade tomato sauce over Ragu, or somewhere on a mountain--skiing, biking, running, or climbing.</p>
+						<p><strong>As a graduate student</strong> at Stanford University, I am interested in harnessing individual decision making to increase the overall health and sustainability of communities.</p>
+						<p>Click to view my <a href="documents/Gina_Mendolia_CV.pdf">resume</a> and <a href="documents/Gina_Mendolia_CV.pdf">publications</a>.</p>
 					</div>
+					<figure class="about_content" id="about_pic">
+						<img src="https://ginamendolia.github.io/final_project/images/misc/gina.jpg" alt="Hi, this is a picture of me!" title="Gina Mendolia">
+					</figure>
+
 
 <!-- Projects Section -->
 				<section class="box" id="work">
-					<h4 class="SectionHeader">+Work</h4>
+					<h3 class="SectionHeader" >+Work</h3>
 
-					<section class="clearfix" id="project_poop_pills">
+					<section id="project_poop_pills">
 
 <!-- Case Study Cover Photo -->
 						<div class="CaseStudyCover">
@@ -55,27 +55,27 @@
 
 <!-- Case Study Header -->
 						<div class="CaseStudyHeader">
-							<h1>Poop Pills</h2>
-							<p class="CaseStudyAbstract">Treating Clostridium difficle with Fecal Microbiota Transplant (FMT)</p>
-							<h4 class="CaseStudyClient">Client</h4>
-							<h4>OpenBiome</h4>
+							<h1>Poop Pills</h1>
+							<h2>Treating Clostridium difficle with Fecal Microbiota Transplant (FMT)</h2>
+							<h3 class="CaseStudyClient">Client</h3>
+							<h3>OpenBiome</h3>
 						</div>
 
 						<hr class="CaseStudySummary-Top">
 <!-- Case Study Summary -->
 						<div class="CaseStudySummary">
 							<div class="CaseStudySummary-group">
-								<h4>Challenge</h4>
+								<h3>Challenge</h3>
 								<p>Fecal matter is not the easiest thing to encapsulate. It’s 70 percent water; when you put it into a gelatin capsule, a traditional shell for drugs, the capsule melts from the inside out.</p>
 							</div>
 
 							<div class="CaseStudySummary-group">
-								<h4>Impact</h4>
+								<h3>Impact</h3>
 								<p>Over 250k pills have been made using my method. To date, the pill I designed has treated over 2,000 patients with C. diff and has been used to study the effects of FMT in 25+ clinical trials including inflammatory bowel disease (IBD), immuno-oncology (I/O), and primary sclerosing cholangitis (PSC).</p>
 							</div>
 
 							<div class="CaseStudySummary-group">
-								<h4>Lessons</h4>
+								<h3>Lessons</h3>
 								<p>Be prepared to change your approach for different parts of the process. Development, scaling, and operations rely on different skills. Pausing to acknowledge that you’re shifting your “skill gears” is worth-while. </p>
 							</div>
 						</div>
@@ -84,7 +84,7 @@
 
 						<div class="CaseStudyContent">
 							<div class="CaseStudyContent-main">
-								<h4>Background</h4>
+								<h3>Background</h3>
 								<p>One of the most common hospital infections, <span class="sci_words">Clostridium difficile</span>, also known as “C. diff,” inflicts debilitating symptoms, affects over 500,000 Americans each year, and kills almost 30,000 of them.  When antibiotics don’t work, a Fecal Microbiota Transplant (FMT) can be used to send an army of good bacteria into your gut to crowd out the infection. Patients feel better within hours 90 percent of the time! FMT works in just the opposite way antibiotics do. Where antibiotics wipe out infection, FMT overflows the area, leaving the infectious bacteria with nowhere to hide. Until 2015, doctors would administer an FMT via a colonoscopy or endoscopy tube, an invasive but effective medical procedure. </p>
 								<p>My solution was to create small “fences” around bubbles of poop by mixing a hydrophobic (water-hating) liquid with the hydrophilic (water-loving) active ingredient (the poop).  In real life that means, I created a poop pill: shelf-stable, orally available dosage form of FMT delivered by Microbial Emulsion Matrix Technology (MEM Tech).</p>
 								<figure>
@@ -94,14 +94,14 @@
 							</div>
 
 							<aside>
-								<h4>Timeline</h4>
+								<h3>Timeline</h3>
 								<p>September 2014 - May 2015</p>
-								<h4>Team</h4>
+								<h3>Team</h3>
 								<p>To transform trash into treasure, I researched, designed, and executed all experiments. I worked with two microbiology PhDs for scientific support, a physician for clinical oversight, and a manufacturing team to bring the product to life at scale. </p>
 							</aside>
 
 							<div class="CaseStudyContent-process">
-								<h4>Process</h4>
+								<h3>Process</h3>
 								<p>Follow the photos below for descriptions of process, prototypes, and poop geysers. There were a few more ups and downs, many more protoypes, and infinitely more failures not recorded in the following diagrams.</p>
 								<figure id="poop_pill_process">
 									<img src="https://ginamendolia.github.io/final_project/images/project_poop_pills/poop_pill_process.png" alt="Infographic workflow of poop pill development process" title="Poop Pill Process Infographic">
@@ -116,22 +116,22 @@
 							</div>
 <!-- Case Study Header -->
 							<div class="CaseStudyHeader">
-								<h1>Packaging up Poop</h2>
-								<p class="CaseStudyAbstract">Eye-catching packaging and infographics that make novel information accessible and engaging to patients and physicians</p>
-								<h4 class="CaseStudyClient">Client</h4>
-								<h4>OpenBiome</h4>
+								<h1>Packaging up Poop</h1>
+								<h2>Eye-catching packaging and infographics that make novel information accessible and engaging to patients and physicians</h2>
+								<h3 class="CaseStudyClient">Client</h3>
+								<h3>OpenBiome</h3>
 							</div>
 							<hr class="CaseStudySummary-Top">
 <!-- Case Study Summary -->
 							<div class="CaseStudySummary">
 
 								<div class="CaseStudySummary-group">
-									<h4>Challenge</h4>
+									<h3>Challenge</h3>
 									<p>These graphics had to appeal to a wide audience. In a traditional academic setting, the graphics had to balance dense content to provide important information with clean visuals to solidify a company brand.</p>
 								</div>
 
 								<div class="CaseStudySummary-group">
-									<h4>Impact</h4>
+									<h3>Impact</h3>
 									<p>Sharp, professional product packaging easily identifiable by clinicians and patients</p>
 								</div>
 							</div>
@@ -153,7 +153,7 @@
 								</div>
 
 								<aside>
-									<h4>Timeline</h4>
+									<h3>Timeline</h3>
 									<p>March - May 2015</p>
 								</aside>
 						</section>
