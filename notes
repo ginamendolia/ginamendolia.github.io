@@ -1,0 +1,3 @@
+Notes
+
+The clear property tells the browser that you’ve floated elements and that the next element should begin on its own new line.
