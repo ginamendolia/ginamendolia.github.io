@@ -1,0 +1,167 @@
+<!--Project 2
+  <div id="project_packaging">
+    <h3>Product Packaging & Infographics</h3>
+    <div>
+      <h4>Goal</h4>
+      <p>Design eye-catching packaging and infographics that make novel information accessible and engaging to patients and physicians</p>
+    </div>
+    <div>
+      <h4>Who</h4>
+      <p>OpenBiome</p>
+    </div>
+    <div>
+      <h4>When</h4>
+      <p>Spring 2015</p>
+    </div>
+    <div>
+      <h4>Background</h4>
+      <p>Digestive Disease Week (DDW) is one of the largest Gastrointestinal conferences in the world. DDW is academically focused but has a heavy industry presence. I created two infographic posters for display in OpenBiome’s booth. The posters keep with the organization’s inviting and patient-focused culture.</p>
+    </div>
+    <div>
+      <h4>Challenge</h4>
+      <p>These infographics had to appeal to a wide audience. In a traditional academic setting, the graphics had to balance dense content to provide important information with clean visuals to solidify a company brand.</p>
+    </div>
+    <div>
+      <h4>Packaging</h4>
+      <p>The product packaging was designed to echo OpenBiome’s logo and branding. Content was provided by the Chief Medical Officer and user tested with administering physicians. Packaging is designed to meet guidelines for pharmaceutical packaging.</p>
+    </div>
+    <div>
+      <img src="https://ginamendolia.github.io/unit_6/images/" alt="Final design for OpenBiome Lower Delivery box" title="OpenBiome Lower Delivery Box Design">
+
+      <img src="https://ginamendolia.github.io/unit_6/images/" alt="OpenBiome product packaging" title="OpenBiome product packaging">
+
+      <img src="https://ginamendolia.github.io/unit_6/images/" alt="OpenBiome final booklets" title="OpenBiome final booklets">
+    </div>
+    <div>
+      <h4>Graphics</h4>
+      <p>Some summary content line should be here to introduce the inforgraphics below.</p>
+    </div>
+    <div>
+      <h5>Who We Are & Partner Interaction Workflows</h5>
+      <p>The Who We Are and the Partner Interaction Workflow posters work together to provide information about OpenBiome as an organization, service, and product at both high and detailed levels.</p>
+      <img src="https://ginamendolia.github.io/unit_6/images/" alt="" Title="">
+    </div>
+    <div>		​
+      <h5>Quality & Safety Infographic</h5>
+      <p>The Quality & Safety Infographic tackled the need to provide insight into OpenBiome’s ever-improving safety standards. This one-pager is a quick-reference sheet designed to accompany detailed medical documentation.</p>
+      <img src="https://ginamendolia.github.io/unit_6/images/" alt="" Title="">
+    </div>
+    <div>		​
+      <h5>Impact Infographic</h5>
+      <p>The Impact Infographic summarizes high-level metrics about the impact of OpenBiome’s Fecal Microbiota Transplantation product.</p>
+      <img src="https://ginamendolia.github.io/unit_6/images/" alt="" Title="">
+    </div>
+  </div>
+</section>
+<!--Project 3
+<h3>Health Data Information System</h3>
+
+  <h4>Goal</h4>
+  <p>Centralized information system to manage donor health data</p>
+
+  <h4>Who</h4>
+  <p>Finch Therapeutics </p>
+
+  <h4>When</h4>
+  <p>January - October 2018</p>
+
+  <h4>Background</h4>
+  <p>The donor operations team at Finch Thereapeutics manages the health and activity of Fecal Microbiota Transplant (FMT) donors. When the project started, information was entered, stored, and displayed across multiple platforms, such as RedCap, Excel, and paper logs.</p>
+
+  <h4>Challenge</h4>
+  <p>Clinical donor procedures were clear about documenting health data, but the requirements for supporting operations had to be discovered. It was not clear what data had to be recorded and when.</p>
+
+  <h4>Team</h4>
+  <p>My role in this project was to provide oversight, facilitate resources, and cross-functional support, and most importantly act as the product owner. I was responsible for the technical design documentation as well as scoping, deciding priorities, and leading design brainstorms to determine the best configurations to meet the donor team’s needs. ​
+  <br>My team spearheaded this project from requirements gathering and project management to development and design. My team consisted of a project manager, a business analyst, and a data analyst. We worked with the donor team as our “client.”</p>
+
+  <h4>Solution</h4>
+  <p>We started simple. We created a system that collects all the data in one place. We continue to leverage operating procedures. In future releases, the procedures will be upgraded to electronic workflows that lead the user through each step of data collection and reporting.</p>
+
+  <h4>Impact</h4>
+  <p>The donor operations team now has a unified electronic system that meets FDA clinical trial regulations and Good Documentation Practices (GDP), Good Clinical Practices (GCP), and HIPAA guidelines. This completes a vital step towards bringing more fecal microbiota drugs to market.</p>
+
+  <h4>Process</h4>
+  <p>My team and I focused stakeholder input on the “what,” not the “how” to better understand what activities the database system needed to support. We started this project by talking to the donor operations team about what features the system needed, what data the system should be able to collect, and in what ways they would reference the information.
+
+  <br>After these initial sessions, we set up observation sessions to fill in the omitted or implied assumptions. We created process flow and UML-like diagrams to synthesize process information for our contracted development team.
+
+  <br>Once configured, we worked with the quality team to validate the system to meet FDA  Phase I /II and GDP/GCP/ HIPAA compliance regulations. My team’s responsibilities extended to training sessions before and after the launch.</p>
+
+  <h4>Lessons</h4>
+  <p>
+    <ol>
+      <li>Include the user from the beginning of the software development life cycle. It helps manage expectations if they understand why and how the process works.</li>
+
+      <li>Keep it simple and iterate. Be patient. I fell into the trap of designing process improvements in addition to the paper-to-computer transfer. Not recommended, unless otherwise outlined in your stakeholders’ requirements.</li>
+    </ol>
+  </p>
+
+
+<!--Project 4
+<h3>Startup Culture Workshop</h3>
+
+  <h4>Goal</h4>
+  <p>Identify creatve solutions to meet hte growing paiins of a fast-growing startup </p>
+
+  <h4>Who</h4>
+  <p>OpenBiome</p>
+
+  <h4>When</h4>
+  <p>Winter 2016-2016</p>
+
+  <h4>Background</h4>
+  <p>OpenBiome, at the time a young team of 40, was experiencing growing pains. Many members of the team had questions about culture, team dynamics, and personal growth.</p>
+
+  <h4>Challenge</h4>
+  <p>We had to strike a delicate balance that managed the expectations of both leadership and the team at large. Leadership did not and could not promise anything before evaluating the suggestions, while the team wanted to see change happen quickly.</p>
+
+  <h4>Team</h4>
+  <p>For this project, I partnered with Dan, a member of our sales team who had been at OpenBiome for almost as long as I had. We had different yet complementary skill sets, perspectives, and work functions.</p>
+
+  <h4>Solution</h4>
+  <p>We created a team engagement initiative comprised of a survey to solicit discussion topics, a workshop day focused on group problem solving, and task forces responsible for implementing changes. With multiple interations happening over time, we were able to signal a commitment to progress while remaining within leadership’s constraints.</p>
+
+  <h4>Process</h4>
+  <p>We designed a survey to find problems that the team wanted to talk about and then held a workshop to have cross-functional groups talk about those issues.Leading up to the workshop day, we coordinated the logistics for the day and created prompts, priming exercises, and worksheets for recording ideas about team communications, space, work-life balance. On the workshop day itself, Dan and I co-hosted the event and proctored discussions. We encouraged further conversation of the topics from the survey, and provided an executive summary to the leadership team that presented priorities, problems, and solutions thought through by the team.</p>
+
+  <h4>Impact</h4>
+  <p>The team was heard through multiple mediums and turned frustrations with growing pains into energy to improve processes and norms. </p>
+
+  <h4>Lessons</h4>
+  <p>Cross-functional problem solving depends on empathy and curiosity. The best problem solvers are the ones that find the problems in the first place.</p>
+<!--Project 5
+<h3>Cooking Work Book</h3>
+
+  <h4>Goal</h4>
+  <p>Eat affordable, nutritious, tasty, not boring lunch </p>
+
+  <h4>Who</h4>
+  <p>Me!</p>
+
+  <h4>When</h4>
+  <p>Summer & Fall 2018; on-going improvements</p>
+
+  <h4>Background</h4>
+  <p>I can survive most work days with a steady stream of coffee, but my effectiveness lags by the end of the day. This spring, hoping to increase my energy levels, I decided to take a few steps towards healthier eating. </p>
+
+  <h4>Challenge</h4>
+  <p>Fueling up just wasn’t my priority in a busy work day. Buying lunch every day is expensive. Meal prep seemed too monotonous. And I felt a lot of pressure to eat the “right” foods at every single meal.</p>
+
+  <h4>Team</h4>
+  <p>I was both the project manager and user for this project and referred to a nutritionist as a subject matter expert for general diet guidelines. </p>
+
+  <h4>Solution</h4>
+  <p>A “Cooking Work Book” is a workbook that provides the structure for dietary habit change and the flexibility to integrate the habit into daily life. It can be used to introduce new foods into a diet or highlight food preferences and tendencies.</p>
+
+  <h4>Process</h4>
+  <p>My first step was listing all the food I like and realizing that much of it was considered to be “healthy.” I started off easy with frozen burritos and a simple grid. Week to week, I focused on adding a vegetable or side dish to expand the meal while taking notes about the foods that didn’t get eaten. It felt like I leveled-up in this game when I started to focus on bringing the right amounts of different ingredients so that I would have enough and not waste too much. Along the way I refined my note-taking structure to track info based on where I was on the J-curve of introducing a new habit, spice, or vegetable. </p>
+
+  <h4>Impact</h4>
+  <p>I’m not hangry at work anymore! And I have prototypes to create a responsive cooking work book.</p>
+
+  <h4>Lessons</h4>
+  <p>Habits are hard to break and make. It takes focus and effort; and so, any tool that keeps a goal top of mind is the key to success.</p>
+
+<hr> -->
+<!-- About Section -->
