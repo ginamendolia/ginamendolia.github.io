@@ -10,7 +10,7 @@ body {
 }
 
 img {
-  max-width: 100%
+  max-width: 100%;
   height: auto;
 }
 
@@ -25,10 +25,9 @@ h2 {
 h3 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight:900;
-  font-size:1.2em;
+	font-size:1.2em;
 	text-transform: uppercase;
 	letter-spacing: .2em;
-  padding: 2em;
 }
 
 strong {
@@ -66,15 +65,14 @@ a:hover {
 #homepage {
   background: rgb(74, 143, 134);
   color: white;
-  height: 700px;
+  text-align: center;
 }
 
 #homepageFocal {
-  max-width=600px auto;
   text-align: right;
-  align-content: center;
-  padding: 2em 0 2em 0;
+  padding: 3em 0 4em;
   display: inline-block;
+  line-height: 1;
 }
 
 #bold {
@@ -82,22 +80,24 @@ a:hover {
 }
 
 hr {
-  width: 400px;
-	border:6px solid white;
+  width: 100%;
+  border:6px solid white;
+  margin: .25em 0;
 }
 
 
 /*ABOUT*/
 .about_content {
   font-size: 1.2em;
-  width:46%;
-  max-height: 700px;
-  padding:2%;
+  width: 33.33%;
+  float: left;
+  /* padding:2%; */
   display: inline-block;
 }
 
 #about_main {
-  float: left;
+  width: 64.66%;
+  margin-right: 2%;
 }
 #about_pic {
   float: left;
@@ -122,10 +122,12 @@ hr.CaseStudySummary-Bottom {
 }
 
 .CaseStudyCover {
-	height: 550px;
-	display: block;
-	position:relative;
-	margin-bottom: 80px;
+	height: 30em;
+	/* margin-bottom: 80px; */
+	background: url(../images/project_poop_pills/nytimes_pill_in_hand.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 .CoverImage {
@@ -133,7 +135,17 @@ hr.CaseStudySummary-Bottom {
 	height: 100%;
 	background-size: cover;
 }
+.box {
+    padding: 5em 0;
+    max-width: 1200px;
+    margin: auto;
+}
 
+.CaseStudySummary-group {
+    width: 50%;
+    float: left;
+    padding: 2em;
+}
 /*TBD*/
 
 .clearfix:after {
