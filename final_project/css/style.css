@@ -120,6 +120,20 @@ hr.CaseStudySummary-Bottom {
   text-align: center;
 
 }
+
+.CaseStudyCover {
+	height: 550px;
+	display: block;
+	position:relative;
+	margin-bottom: 80px;
+}
+
+.CoverImage {
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+
 /*TBD*/
 
 .clearfix:after {
