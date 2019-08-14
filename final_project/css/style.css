@@ -146,6 +146,11 @@ hr.CaseStudySummary-Bottom {
     float: left;
     padding: 2em;
 }
+
+aside {
+	background: black;
+	color:white;
+}
 /*TBD*/
 
 .clearfix:after {
